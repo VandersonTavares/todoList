@@ -8,8 +8,6 @@ import { BsFillSunFill, BsTrash } from "react-icons/bs";
 import { TbSquareRoundedArrowRight } from "react-icons/tb";
 import { FcTodoList, FcCheckmark, FcHighPriority } from "react-icons/fc";
 
-// import bgday from "./assets/images/bg-day.jpg";
-// style={{ backgroundImage: `url(${bgday})`, backgroundRepeat: "no-repeat", backgroundSize: "cover" }}
 
 interface Task {
   id: string;
